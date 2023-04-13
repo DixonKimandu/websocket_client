@@ -1,0 +1,39 @@
+{
+  "name": "websocket-client",
+  "version": "1.0.0",
+  "description": "react websocket client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "PORT=1992 react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Kimandu Ndung'u",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "antd": "^5.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "websocket": "^1.0.34"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
